@@ -242,7 +242,8 @@ https://work.mma.go.kr/caisBYIS/faq/BYITFAQSS.do;jsessionid=vMxuaHbMJAbgTHl5Ql0j
 # 보충역 다수 채용업체 현역 추가배정
 - 추가배정 시점에 12개월간 보충역을 신규 편입한 업체는, 4명당 1명의 현역을 무조건 편입시킬 수 있다.
 - 2019년 기준 2018년 9월 1일부터 2019년 8월 31일간 보충역을 4명 편입시킨 업체는, 2019년 10월중에 현역을 한 명 편입시킬 수 있다.
-- 2020년부터 현역당 추가배정은 3명당 1명, 시점은 2020년 1월, 기준시기는 4개월로 추가 확대되었다. (https://www.mma.go.kr/board/boardView.do?gesipan_id=18&gsgeul_no=1502522&pageIndex=1&searchCondition=&searchKeyword=&pageUnit=10&mc=usr0000053&jbc_gonggibodo=16)
+- 2020년부터 보충역당 추가배정은 3명당 1명, 시점은 2020년 1월, 기준시기는 4개월로 추가 확대되었다. (https://www.mma.go.kr/board/boardView.do?gesipan_id=18&gsgeul_no=1502522&pageIndex=1&searchCondition=&searchKeyword=&pageUnit=10&mc=usr0000053&jbc_gonggibodo=16)
+- 2021년부터 보충역당 추가배정은 3명일때 1명, 5명일때 2명, 8명일때 3명 10명일때 4명이다. [보충역당 추가배정](https://user-images.githubusercontent.com/42489745/130194467-9d411569-aaf4-4681-a275-27c1f584e0ce.png)
 
 # 산업기능요원 현역(1급~3급) 대학생 편입
 * 특성화고 졸업자에게 우선적으로 배정되는 TO가 남으면 대학생 현역자도 신청을 받을 수 있다. 이 방법으로 매년 100명 이하의 대학생 산업기능요원이 편입했다.
