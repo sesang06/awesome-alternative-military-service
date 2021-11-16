@@ -112,12 +112,17 @@
 
 ## 채용 공고 포맷
 - [채용시까지] 데브시스터즈 채용
-    - 분야 : Server, Data Scientist, DW, Data
+    - 분야 : 
+      - Machine Learning
+      - Server
+      - Data Scientist
+      - DW
+      - Data
     - 보충역 : 편입 가능 / 전직 가능
     - 현역 : 재배정 지원 불가 / 전직 가능
     - [기술 블로그](https://tech.devsisters.com/)
     - [채용공고](https://careers.devsisters.com/)
-
+    
 - [채용시까지] 모젯 채용
     - 분야 : Server 3년차 이상 / 안드로이드 신입 이상 / iOS 신입 이상
     - 보충역 : 편입 가능 / 전직 가능
