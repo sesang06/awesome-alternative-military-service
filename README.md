@@ -33,6 +33,7 @@
 - [리디](https://www.ridicorp.com/blog/) (리디북스)
 - 마이리얼트립
 - [마이뮤직테이스트](https://team.mymusictaste.com/recruit)
+- [마인드로직](https://mindlogic.ai) (오픈타운, 가상남녀)
 - [마인즈랩](https://mindslab.ai) (마음AI)
 - [마크애니](http://www.markany.com/kr/blog/)
 - 모젯 (정오의데이트)
