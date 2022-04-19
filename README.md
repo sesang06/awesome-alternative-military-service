@@ -72,6 +72,7 @@
 - [휴먼스케이프](https://www.humanscape.io/kr/recruit_apply.html)
 - [니어스랩](https://nearthlab.oopy.io/) (AI드론 B2B 웹서비스)
 - [커먼컴퓨터](https://www.notion.so/913bb6481c1f4c40a3afcfb63c87a199)
+- [이제이엔(EJN)](https://ejn.team) (트윕/트게더)
 
 # 복무만료 후 계속 근무업체
 의무복무기간을 마친 산업기능요원이 1년 이상 계속 근무중인 업체.
@@ -156,6 +157,12 @@
     - 보충역 : 편입 가능 / 전직 가능
     - 현역 : 편입 가능 / 전직 가능
     - [블로그](https://notion.deering.co/)
+
+- [채용시까지] 이제이엔(EJN) 채용
+    - 분야: Front-end, Back-end, iOS, AOS, DevOps
+    - 보충역: 편입 가능 / 전직 가능
+    - 현역: 현역 불가능 / 전직 불가능
+    - [채용공고](https://ejn.team)
 
 # 면접 준비 자료
 
