@@ -75,6 +75,7 @@
 - [커먼컴퓨터](https://www.notion.so/913bb6481c1f4c40a3afcfb63c87a199)
 - [이제이엔(EJN)](https://ejn.team) (트윕/트게더)
 - [레몬베이스(Lemonbase)](https://lemonbase.team)
+- [핵클(Hackle)](https://www.hackle.io)
 
 # 복무만료 후 계속 근무업체
 의무복무기간을 마친 산업기능요원이 1년 이상 계속 근무중인 업체.
@@ -172,6 +173,17 @@
     - 보충역: 편입 가능 / 전직 가능
     - 현역: 현역 불가능 / 전직 가능
     - [채용공고](https://lemonbase.team)
+
+- [채용시까지] 핵클 채용
+    - 분야 : 
+      - Backend Engineer
+      - Frontend Engineer
+      - Data Engineer
+      - Platform Engineer
+    - 보충역 : 편입 가능 / 전직 가능
+    - 현역 : 현역 불가능 / 전직 가능
+    - [블로그](https://blog.hackle.io)
+    - [채용공고](https://careers.hackle.io)
 
 # 면접 준비 자료
 
