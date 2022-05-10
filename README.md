@@ -44,6 +44,7 @@
 - [비바리퍼블리카](https://blog.toss.im/tag/%EB%B9%84%EB%B0%94%EB%A6%AC%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%B9%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90/) (토스)
 - [빙글](https://medium.com/vingle-tech-blog)
 - [센드버드](https://sendbird.com/careers) (SendBird)
+- [스윙](https://www.swingmobility.co/careers) (SWING)
 - [스포카](https://spoqa.github.io/) (도도)
 - [알고리마](https://algorima.io/) ([이지딥](https://easydeep.ai/))
 - 에이블리코퍼레이션 (에이블리)
