@@ -174,22 +174,22 @@
     - 현역: 현역 불가능 / 전직 가능
     - [채용공고](https://lemonbase.team)
 
-  - [채용시까지] 핵클 채용
-    - 분야 : 
-      - Backend Engineer
-      - Frontend Engineer
-      - Data Engineer
-      - Platform Engineer
-    - 보충역 : 편입 가능 / 전직 가능
-    - 현역 : 현역 불가능 / 전직 가능
-    - [블로그](https://blog.hackle.io)
-    - [채용공고](https://careers.hackle.io)
-  
-  - [채용시까지] 스윙(SWING) 채용
-    - 분야: Backend Engineer, iOS Engineer, Android Engineer
-    - 보충역: 편입 가능 / 전직 가능
-    - 현역: 현역 불가능 / 전직 가능
-    - [채용공고](https://swingmobility.notion.site/)
+- [채용시까지] 핵클 채용
+  - 분야 : 
+    - Backend Engineer
+    - Frontend Engineer
+    - Data Engineer
+    - Platform Engineer
+  - 보충역 : 편입 가능 / 전직 가능
+  - 현역 : 현역 불가능 / 전직 가능
+  - [블로그](https://blog.hackle.io)
+  - [채용공고](https://careers.hackle.io)
+
+- [채용시까지] 스윙(SWING) 채용
+  - 분야: Backend Engineer, iOS Engineer, Android Engineer
+  - 보충역: 편입 가능 / 전직 가능
+  - 현역: 현역 불가능 / 전직 가능
+  - [채용공고](https://swingmobility.notion.site/)
 # 면접 준비 자료
 
 - https://github.com/JaeYeopHan/Interview_Question_for_Beginner
