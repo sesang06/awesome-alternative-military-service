@@ -199,11 +199,11 @@
      - Machine Learning
      - Search
      - Server
-  -보충역 : 신규 편입, 전직 모두 가능
-  -현역 : 전직 가능, 신규 편입 불가
-  -[채용 공고](https://team.daangn.com/jobs/)
-  -[블로그](https://medium.com/daangn)
-  -[채용 유튜브](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg)
+  - 보충역 : 신규 편입, 전직 모두 가능
+  - 현역 : 전직 가능, 신규 편입 불가
+  - [채용 공고](https://team.daangn.com/jobs/)
+  - [블로그](https://medium.com/daangn)
+  - [채용 유튜브](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg)
 # 면접 준비 자료
 
 - https://github.com/JaeYeopHan/Interview_Question_for_Beginner
