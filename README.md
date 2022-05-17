@@ -193,12 +193,12 @@
 
 - [채용시까지] 당근마켓 채용
   - 분야 : 개발 전 분야
-               - Frontend
-               - Infra
-               - iOS / Android
-               - Machine Learning
-               - Search
-               - Server
+     - Frontend
+     - Infra
+     - iOS / Android
+     - Machine Learning
+     - Search
+     - Server
   -보충역 : 신규 편입, 전직 모두 가능
   -현역 : 전직 가능, 신규 편입 불가
   -[채용 공고](https://team.daangn.com/jobs/)
