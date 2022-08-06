@@ -43,6 +43,7 @@
 * 버킷플레이스 (오늘의집)
 * 번개장터 (셀잇)
 * [베이글코드](https://bagelcode.recruiter.co.kr/appsite/company/index)
+* [보이저엑스](https://www.voyagerx.com) (Vrew, vFlat, 온글잎)
 * 봉봉
 * [비바리퍼블리카](https://blog.toss.im/tag/%EB%B9%84%EB%B0%94%EB%A6%AC%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%B9%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90/) (토스)
 * [빙글](https://medium.com/vingle-tech-blog)
