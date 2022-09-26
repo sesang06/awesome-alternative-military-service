@@ -80,6 +80,7 @@
 * [이제이엔(EJN)](https://ejn.team) (트윕/트게더)
 * [레몬베이스(Lemonbase)](https://lemonbase.team)
 * [핵클(Hackle)](https://www.hackle.io)
+* [힐링페이퍼](https://healingpaper.career.greetinghr.com/) (강남언니) 
 
 ### 복무만료 후 계속 근무업체
 
@@ -97,6 +98,7 @@
 * 펜타시큐리티시스템
 * 오픈서베이
 * 니어스랩 (AI드론 B2B 웹서비스)
+* 힐링페이퍼 (강남언니)
 
 ### 2018년 산업기능요원(현역) 재배정 성공한 업체
 
@@ -116,6 +118,7 @@
 * (주)우아한형제들 (배달의민족)
 * 두나무(주) (업비트)
 * 조이코퍼레이션(채널톡, 워크인사이트)
+* 힐링페이퍼 (강남언니)
 
 ## 산업기능요원 채용 공고
 
@@ -210,6 +213,15 @@
   * [채용 공고](https://team.daangn.com/jobs/)
   * [블로그](https://medium.com/daangn)
   * [채용 유튜브](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg)
+
+* [채용시까지] 강남언니 채용
+  * 분야 :
+    * Frontend
+    * Server
+  * 보충역 : 신규 편입, 전직 모두 가능
+  * 현역 : 전직 가능, 신규 편입 불가
+  * [채용 공고](https://healingpaper.career.greetinghr.com/)
+  * [블로그](https://blog.gangnamunni.com/)
 
 ## 면접 준비 자료
 
