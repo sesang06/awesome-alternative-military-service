@@ -40,6 +40,7 @@
 * [마인즈랩](https://mindslab.ai) (마음AI)
 * [마크애니](http://www.markany.com/kr/blog/)
 * 모젯 (정오의데이트)
+* [몰로코](https://moloco.com/) (2023년 1월부터 가능 예정)
 * 버킷플레이스 (오늘의집)
 * 번개장터 (셀잇)
 * [베이글코드](https://bagelcode.recruiter.co.kr/appsite/company/index)
