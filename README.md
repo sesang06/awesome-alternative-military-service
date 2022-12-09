@@ -27,7 +27,6 @@
 * 넥스트매치 (아만다)
 * [당근마켓](https://team.daangn.com/jobs/)
 * [데브시스터즈](https://careers.devsisters.com/) (쿠키런)
-* 두나무
 * 드라마앤컴퍼니
 * [디어](https://notion.deering.co/)
 * 띵스플로우
