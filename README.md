@@ -25,6 +25,7 @@
 
 * VCNC (비트윈)
 * 넥스트매치 (아만다)
+* [아우토크립트](https://www.autocrypt.co.kr)
 * [당근마켓](https://team.daangn.com/jobs/)
 * [데브시스터즈](https://careers.devsisters.com/) (쿠키런)
 * 두나무
