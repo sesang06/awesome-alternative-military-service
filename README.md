@@ -57,7 +57,6 @@
 * 오픈서베이
 * [와탭](https://www.whatap.io/ko/careers/)
 * [왓챠](https://team.watcha.com/blog/)
-* [우아한형제들](http://woowabros.github.io/) (배달의민족)
 * 위시켓
 * [조이코퍼레이션](https://zoyi.co/jobs) (채널톡, 워크인사이트)
 * 케어랩스 (굿닥, 바비톡)
