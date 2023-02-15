@@ -207,7 +207,7 @@
     * Infra
     * iOS / Android
     * Machine Learning
-    * Search
+    * Data
     * Server
   * 보충역 : 신규 편입, 전직 모두 가능
   * 현역 : 전직 가능, 신규 편입 불가
