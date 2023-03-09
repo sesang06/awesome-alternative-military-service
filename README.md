@@ -131,7 +131,7 @@
 
 ### 채용 공고 포맷
 
-* [채용시까지] 데브시스터즈 채용
+* [채용시까지] 스캐터랩 채용
   * 분야 :
     * Frontend Engineer
     * Mobile app Engineer (React Native)
