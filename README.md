@@ -90,6 +90,7 @@
 
 산업기능요원 현역 재배정 기준에서 10점~30점 (총점 60점) 가점을 받는다.
 
+* 스캐터랩 (이루다)
 * 모젯 (정오의데이트)
 * 어썸피스 (좀비고등학교)
 * 하이퍼커넥트 (아자르)
@@ -108,6 +109,7 @@
 
  <https://www.mma.go.kr/board/boardView.do?mc=usr0000053&gesipan_id=18&gsgeul_no=1500082>
 
+* 스캐터랩 (이루다)
 * 하이퍼커넥트 (아자르)
 * 어썸피스 (좀비고등학교)
 * 데브시스터즈 (쿠키런)
@@ -128,6 +130,23 @@
 * 자유롭게 PR을 주시면 감사하겠습니다.
 
 ### 채용 공고 포맷
+
+* [채용시까지] 스캐터랩 채용
+  * 분야 :
+    * Frontend Engineer
+    * Mobile app Engineer (React Native)
+    * Machine Learning Engineer
+    * Machine Learning Researcher
+    * Machine Learning Platform Engineer
+    * Data Analyst
+    * Data Engineer
+    * Backend Engineer
+    * Site Reliability Engineer (DevOps)
+    * Security Engineer
+  * 보충역 : 편입 가능 / 전직 가능
+  * 현역 : 재배정 지원 불가 / 전직 가능
+  * [기술 블로그](https://tech.scatterlab.co.kr/)
+  * [채용공고](https://team.luda.ai/recruiting/)
 
 * [채용시까지] 데브시스터즈 채용
   * 분야 :
