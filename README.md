@@ -23,6 +23,7 @@
 * 병역특례 업체 조회 [https://k-agent.services/](https://k-agent.services/)
 * Awesome 산업기능요원 [awesome-sgy](https://github.com/Zerohertz/awesome-sgy)
 * Awesome 전문연구요원 [awesome-jmy](https://github.com/Zerohertz/awesome-jmy)
+* 병역특례 공고 조회 [https://sangiyo.kr](https://sangiyo.kr)
 
 ### 산업기능요원을 채용하거나, 산업기능요원이 재직중인 회사
 
